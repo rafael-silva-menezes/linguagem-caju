@@ -1,0 +1,9 @@
+->vazio principal ()
+inicio
+   vetor caractere [3] letras.
+  
+   letras[0] := 'a'.
+   letras[1] := 'b'.
+   letras[1+1] := 'c'. 
+fim
+

@@ -1,0 +1,10 @@
+->vazio principal ()
+inicio
+   vetor numero [3] vet.
+    
+   vet[0] := 1.
+   vet[1] := 2.
+   vet[1+1] := 1+2. 
+fim
+
+

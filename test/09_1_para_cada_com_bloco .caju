@@ -1,0 +1,8 @@
+->vazio principal()
+inicio
+    vetor numero[3] vet.
+    para cada (numero i : vet)
+    inicio
+      exibir(i).
+    fim
+fim

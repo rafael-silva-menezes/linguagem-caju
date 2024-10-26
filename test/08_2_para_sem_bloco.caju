@@ -1,0 +1,6 @@
+->vazio principal()
+inicio
+    numero i.
+    para (i := 0; i<10; i:=i+1)
+      exibir(i).
+fim

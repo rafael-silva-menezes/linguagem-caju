@@ -1,0 +1,7 @@
+vetor numero [3] linha.
+vetor numero [3][3] matriz.
+vetor numero [3][3][3] cubo.
+->numero um ()
+inicio
+   retorne 1.
+fim

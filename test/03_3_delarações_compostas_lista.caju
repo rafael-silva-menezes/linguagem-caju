@@ -1,0 +1,5 @@
+vetor numero [3] vetA, vetB, vetC.
+->numero um ()
+inicio
+   retorne 1.
+fim

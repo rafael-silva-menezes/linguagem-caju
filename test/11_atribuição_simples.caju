@@ -1,0 +1,5 @@
+->vazio principal ()
+inicio
+   numero i.
+   i:=1.
+fim

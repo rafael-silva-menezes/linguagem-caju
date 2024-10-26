@@ -1,0 +1,13 @@
+numero um()
+inicio
+       retorne 1.
+fim 
+
+
+->vazio principal()
+inicio
+    numero i.
+    i := um().
+fim
+
+

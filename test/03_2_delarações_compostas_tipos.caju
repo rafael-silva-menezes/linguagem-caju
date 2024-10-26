@@ -1,0 +1,7 @@
+vetor numero [3] vetNum.
+vetor caractere [3] vetChar.
+vetor booleano [3] vetBool.
+->numero um ()
+inicio
+   retorne 1.
+fim

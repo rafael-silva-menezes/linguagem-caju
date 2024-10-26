@@ -1,0 +1,9 @@
+*.pdf
+.idea
+*.class
+
+caju/*
+!caju/*.java
+!caju/utils
+!caju/ast
+!caju/semantics

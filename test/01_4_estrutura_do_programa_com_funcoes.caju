@@ -1,0 +1,10 @@
+numero um ()
+inicio
+   retorne 1.
+fim
+
+numero dois ()
+inicio
+   retorne 2.
+fim
+

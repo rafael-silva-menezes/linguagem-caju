@@ -1,0 +1,16 @@
+numero identidade (numero a)
+inicio
+        retorne a.
+fim 
+
+numero soma ( numero a | numero b)
+inicio
+        retorne a+b.
+fim 
+
+numero somaTres( numero a | numero b | numero c)
+inicio
+        retorne a+b+c.
+fim 
+
+

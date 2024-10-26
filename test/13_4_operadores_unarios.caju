@@ -1,0 +1,12 @@
+->vazio principal ()
+inicio
+   booleano b.   
+   numero n.   
+
+   b := falso.
+   b := nao(verdadeiro).
+   b := nao b.
+   
+   n := -1.
+fim
+

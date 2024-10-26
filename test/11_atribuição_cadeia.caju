@@ -1,0 +1,5 @@
+->vazio principal ()
+inicio
+   vetor caractere[16] c.
+   c:="Teste".
+fim

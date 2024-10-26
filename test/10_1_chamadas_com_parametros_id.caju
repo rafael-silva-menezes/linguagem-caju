@@ -1,0 +1,13 @@
+numero i.
+numero j.
+numero k.
+->vazio programa ()
+inicio
+   teste(i).
+   
+   teste(i|j).
+   
+   teste(i|j|k).
+fim
+
+

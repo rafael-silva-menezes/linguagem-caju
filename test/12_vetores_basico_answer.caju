@@ -1,0 +1,10 @@
+->vazio principal ()
+inicio
+   vetor booleano [3] vet.
+    
+   vet[0] := verdadeiro.
+   vet[1] := falso.
+   vet[1+1] := verdadeiro e falso.  
+fim
+
+

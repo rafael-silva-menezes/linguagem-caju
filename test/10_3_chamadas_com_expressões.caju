@@ -1,0 +1,13 @@
+numero i.
+->vazio programa ()
+inicio
+   teste(i+100).
+   teste(5+8).
+   teste(5<8).
+   teste(5+8 | 8).
+   teste(5+8 | 8 | i).
+   teste('a' | 'e' | 'i').
+   teste ("oi").
+   teste (falso ou falso).
+fim
+

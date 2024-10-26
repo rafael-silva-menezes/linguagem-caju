@@ -1,0 +1,9 @@
+numero i.
+->vazio programa ()
+inicio
+   ler(i).
+   ler(j). 
+   exibir(i|j).
+   ler(i|j|k).
+fim
+

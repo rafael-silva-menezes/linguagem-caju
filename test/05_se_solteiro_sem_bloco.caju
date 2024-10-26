@@ -1,0 +1,8 @@
+->vazio principal()
+inicio
+    numero i.
+    i := 9.
+    
+    se (i < 10)
+       i := i + 1. 
+fim

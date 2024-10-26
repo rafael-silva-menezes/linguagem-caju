@@ -1,0 +1,11 @@
+numero i.
+->vazio programa ()
+inicio
+   teste(i).
+   teste(5).
+   teste('a').
+   teste("oi").
+   teste(falso).
+fim
+
+
